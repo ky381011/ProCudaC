@@ -1,0 +1,4 @@
+*.exe
+*.metadata
+nvvp/
+RemoteSystemsTempFiles/
